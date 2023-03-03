@@ -13,6 +13,7 @@ Para que [benefício]
    
  ### Detalhes e Suposições
  * [documente o que você sabe]
+
    
  ### Critérios de Aceitação  
    
