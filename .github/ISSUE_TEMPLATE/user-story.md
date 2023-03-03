@@ -15,7 +15,7 @@ Para que [benefício]
  * [documente o que você sabe]
 
    
- ### Critérios de Aceitação  
+ ### Critérios de Aceitação
    
  ```pepino
  Dado [algum contexto]
